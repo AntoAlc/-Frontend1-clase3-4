@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+a {
+    text-decoration: none;
+    color          : black;
+}
+
+ ul li{
+    list-style:none;
+}
+
+.hipervinculos ul{
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    left: 0% ;
+}
+.encabezadoFondoLemon {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.3)), url(../img/lemon-pie.png);
+    background-attachment: scroll;
+    background-size      : cover;
+    background-position  : center;
+    color                : white;
+    padding-top          : 250px;
+    margin-right         : 20px;
+}
+
+.encabezadoFondoLemon p{
+    font-size: 20px;
+}
+
+h1 {
+    letter-spacing: 2px;
+    font-size     : 45px;
+}
+
+h2 {
+
+    font-style: italic;
+}
+
+p {
+    color: white;
+}
+
+h3 {
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-style : italic;
+    font-size: 30px;
+
+}
+
+h3, i{
+    margin-right: 15px;
+}
+
+.merengue{
+ color: orange;
+ text-decoration:underline;
+}
+
+footer{
+    background-color: gainsboro;
+}
+
+
+footer p{
+    text-align: center;
+}
+
