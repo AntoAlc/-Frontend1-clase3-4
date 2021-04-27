@@ -5,16 +5,17 @@ a {
     color          : black;
 }
 
- ul li{
-    list-style:none;
+ul li {
+    list-style: none;
 }
 
-.hipervinculos ul{
+.hipervinculos ul {
     position: absolute;
-    margin: 0;
-    padding: 0;
-    left: 0% ;
+    margin  : 0;
+    padding : 0;
+    left    : 0%;
 }
+
 .encabezadoFondoLemon {
     background-image: linear-gradient(rgba(0, 0, 0, 0.3),
             rgba(0, 0, 0, 0.3)), url(../img/lemon-pie.png);
@@ -26,7 +27,7 @@ a {
     margin-right         : 20px;
 }
 
-.encabezadoFondoLemon p{
+.encabezadoFondoLemon p {
     font-size: 20px;
 }
 
@@ -45,28 +46,28 @@ p {
 }
 
 h3 {
-    
+
     font-family: 'Times New Roman', Times, serif;
     font-style : italic;
-    font-size: 30px;
+    font-size  : 30px;
 
 }
 
-h3, i{
+h3,
+i {
     margin-right: 15px;
 }
 
-.merengue{
- color: orange;
- text-decoration:underline;
+.merengue {
+    color          : orange;
+    text-decoration: underline;
 }
 
-footer{
+footer {
     background-color: gainsboro;
 }
 
 
-footer p{
+footer p {
     text-align: center;
 }
-
